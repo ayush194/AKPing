@@ -7,7 +7,7 @@
 // To build:
 //      make all
 // To run:
-//      ./AKPing <hostname>
+//      sudo ./AKPing <hostname>
 // To clean:
 //		make clean
   
