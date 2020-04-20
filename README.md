@@ -11,3 +11,15 @@ make all
 ```
 make clean
 ```
+
+
+Author:
+
+Ayush Kumar
+Junior Undergraduate
+Indian Institute of Technology Kanpur
+
+Link to my webpage
+https://cse.iitk.ac.in/users/ayushk
+
+Built for Cloudflare Internship Program 2020

@@ -1,3 +1,8 @@
+/*
+	Author: Ayush Kumar
+	Date: April 20, 2020
+*/
+
 // A simple C++ program to send pings to a given hostname
 // To build:
 //      make all

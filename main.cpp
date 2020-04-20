@@ -1,3 +1,8 @@
+/*
+	Author: Ayush Kumar
+	Date: April 20, 2020
+*/
+
 #include "Ping.h"
 
 int main(int argc, char *argv[]) {
